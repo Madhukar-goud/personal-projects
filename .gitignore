@@ -1,0 +1,8 @@
+.idea/
+dependency-reduced-pom.xml
+fixture-hierarchy-in-redis.iml
+target/
+*.class
+*.project
+*.settings
+*.classpath
